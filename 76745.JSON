@@ -1,0 +1,23 @@
+[
+{"urlDict": {"searching": "https://www.reddit.com/"}, "latency": 0.3773341178894043, "title": ["reddit: the front page of the internet"]},
+{"urlDict": {"searching": "https://www.reddit.com/r/dataisbeautiful/"}, "latency": 0.4628880023956299, "title": ["Data Is Beautiful"]},
+{"urlDict": {"searching": "https://www.reddit.com/r/gadgets/"}, "latency": 1.536402940750122, "title": ["reddit gadget guide"]},
+{"urlDict": {"searching": "https://www.reddit.com/r/history/"}, "latency": 0.410811185836792, "title": ["History"]},
+{"urlDict": {"searching": "https://www.reddit.com/r/UpliftingNews/"}, "latency": 0.5203568935394287, "title": ["Uplifting News"]},
+{"urlDict": {"foundTarget": "https://www.reddit.com/r/Documentaries/"}, "targetNode": ["Mysteries of the Moon (2007) the history of the moon and how it affects things on earth [49:21]"], "title": ["Documentaries"], "latency": 0.4784259796142578},
+{"urlDict": {"foundTarget": "https://www.reddit.com/r/WritingPrompts/"}, "targetNode": ["[WP] Tell us the story of a nuclear war on earth, as told by the astronauts on the International Space Station."], "title": ["Writing Prompts: Prompts and motivation to create something out of nothing"], "latency": 0.302839994430542},
+{"urlDict": {"searching": "https://www.reddit.com/r/photoshopbattles/"}, "latency": 0.48522305488586426, "title": ["a place to have fun with everyone's favorite graphic software"]},
+{"urlDict": {"searching": "https://www.reddit.com/r/Art/"}, "latency": 0.44719982147216797, "title": ["Art"]},
+{"urlDict": {"searching": "https://www.reddit.com/r/EarthPorn/"}, "latency": 0.3479139804840088, "title": ["EarthPorn: Amazing images of light and landscape"]},
+{"urlDict": {"searching": "https://www.reddit.com/r/GetMotivated/"}, "latency": 1.5367820262908936, "title": ["Get Motivated!"]},
+{"urlDict": {"searching": "https://www.reddit.com/r/space/"}, "latency": 0.42487215995788574, "title": ["/r/space: news, articles, images, videos, and discussion"]},
+{"urlDict": {"searching": "https://www.reddit.com/r/askscience/"}, "latency": 0.39292311668395996, "title": ["AskScience: Got Questions? Get Answers."]},
+{"urlDict": {"searching": "https://www.reddit.com/r/tifu/"}, "latency": 0.3341999053955078, "title": ["Today I Fucked Up"]},
+{"urlDict": {"searching": "https://www.reddit.com/r/food/"}, "latency": 0.256990909576416, "title": ["food"]},
+{"urlDict": {"searching": "https://www.reddit.com/r/sports/"}, "latency": 0.6333739757537842, "title": ["the sportspage of the Internet"]},
+{"urlDict": {"searching": "https://www.reddit.com/r/i18n/wiki/getting_started"}, "latency": 0.46781492233276367, "title": ["getting_started - i18n"]},
+{"urlDict": {"searching": "https://www.reddit.com/help/contentpolicy/"}, "latency": 0.2543599605560303, "title": ["reddit.com: content policy"]},
+{"urlDict": {"searching": "https://www.reddit.com/r/gadgets/?count=25&after=t3_6t100w"}, "latency": 0.6024308204650879, "title": ["reddit gadget guide"]},
+{"urlDict": {"searching": "https://www.reddit.com/r/history/?count=25&after=t3_6uj60s"}, "latency": 0.34308910369873047, "title": ["History"]},
+{"urlDict": {"searching": "https://www.reddit.com/r/UpliftingNews/?count=25&after=t3_6uhxeu"}, "latency": 0.44270801544189453, "title": ["Uplifting News"]}
+]

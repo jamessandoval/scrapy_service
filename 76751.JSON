@@ -1,0 +1,21 @@
+[
+{"urlDict": {"searching": "https://www.reddit.com/"}, "latency": 0.3910820484161377, "title": ["reddit: the front page of the internet"]},
+{"urlDict": {"searching": "https://www.reddit.com/r/funny/"}, "latency": 0.5022830963134766, "title": ["funny"]},
+{"urlDict": {"searching": "https://www.reddit.com/r/news/"}, "latency": 0.3355598449707031, "title": ["All news, US and international."]},
+{"urlDict": {"searching": "https://www.reddit.com/r/worldnews/"}, "latency": 0.3665740489959717, "title": ["World News"]},
+{"urlDict": {"foundTarget": "https://www.reddit.com/r/pics/"}, "targetNode": ["/r/earthporn"], "title": ["Reddit Pics"], "latency": 0.39357805252075195},
+{"urlDict": {"searching": "https://www.reddit.com/r/AskReddit/"}, "latency": 0.29381394386291504, "title": ["Ask Reddit..."]},
+{"urlDict": {"searching": "https://www.reddit.com/r/all/"}, "latency": 0.35124897956848145, "title": ["all subreddits"]},
+{"urlDict": {"searching": "https://www.reddit.com/r/popular/"}, "latency": 0.37807798385620117, "title": ["popular links"]},
+{"urlDict": {"searching": "https://www.reddit.com/subreddits/"}, "latency": 0.33460307121276855, "title": ["subreddits"]},
+{"urlDict": {"searching": "https://www.reddit.com/r/Music/"}, "latency": 0.3173079490661621, "title": ["/r/Music"]},
+{"urlDict": {"searching": "https://www.reddit.com/r/science/"}, "latency": 0.40732598304748535, "title": ["Science"]},
+{"urlDict": {"searching": "https://www.reddit.com/r/LifeProTips/"}, "latency": 0.3508172035217285, "title": ["Life Pro Tips"]},
+{"urlDict": {"searching": "https://www.reddit.com/r/nottheonion/"}, "latency": 0.5772831439971924, "title": ["Sadly, this is not the Onion."]},
+{"urlDict": {"searching": "https://www.reddit.com/r/OldSchoolCool/"}, "latency": 0.22696995735168457, "title": ["OldSchoolCool: History's cool kids, looking fantastic"]},
+{"urlDict": {"foundTarget": "https://www.reddit.com/r/Jokes/"}, "targetNode": ["If there was a reality show about flat-earthers trying to find the edge of the world"], "title": ["Jokes: Get Your Funny On!"], "latency": 0.33928990364074707},
+{"urlDict": {"searching": "https://www.reddit.com/r/i18n/wiki/getting_started"}, "latency": 0.23121404647827148, "title": ["getting_started - i18n"]},
+{"urlDict": {"searching": "https://www.reddit.com/help/contentpolicy/"}, "latency": 0.16832494735717773, "title": ["reddit.com: content policy"]},
+{"urlDict": {"searching": "https://www.reddit.com/r/news/?count=25&after=t3_6umse3"}, "latency": 0.4284491539001465, "title": ["All news, US and international."]},
+{"urlDict": {"searching": "https://www.reddit.com/r/worldnews/?count=25&after=t3_6ud696"}, "latency": 0.4024050235748291, "title": ["World News"]}
+]

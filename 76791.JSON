@@ -1,0 +1,20 @@
+[
+{"urlDict": {"searching": "https://www.reddit.com/"}, "latency": 0.35105299949645996, "title": ["reddit: the front page of the internet"]},
+{"urlDict": {"searching": "https://www.reddit.com/r/UpliftingNews/"}, "latency": 0.4711430072784424, "title": ["Uplifting News"]},
+{"urlDict": {"foundTarget": "https://www.reddit.com/r/Documentaries/"}, "targetNode": ["Mysteries of the Moon (2007) the history of the moon and how it affects things on earth [49:21]"], "title": ["Documentaries"], "latency": 0.6153740882873535},
+{"urlDict": {"foundTarget": "https://www.reddit.com/r/WritingPrompts/"}, "targetNode": ["[WP] Tell us the story of a nuclear war on earth, as told by the astronauts on the International Space Station."], "title": ["Writing Prompts: Prompts and motivation to create something out of nothing"], "latency": 1.549684762954712},
+{"urlDict": {"searching": "https://www.reddit.com/r/photoshopbattles/"}, "latency": 0.5751469135284424, "title": ["a place to have fun with everyone's favorite graphic software"]},
+{"urlDict": {"searching": "https://www.reddit.com/r/Art/"}, "latency": 0.3713679313659668, "title": ["Art"]},
+{"urlDict": {"searching": "https://www.reddit.com/r/EarthPorn/"}, "latency": 0.35823583602905273, "title": ["EarthPorn: Amazing images of light and landscape"]},
+{"urlDict": {"searching": "https://www.reddit.com/r/GetMotivated/"}, "latency": 0.4729180335998535, "title": ["Get Motivated!"]},
+{"urlDict": {"searching": "https://www.reddit.com/r/space/"}, "latency": 0.4187939167022705, "title": ["/r/space: news, articles, images, videos, and discussion"]},
+{"urlDict": {"searching": "https://www.reddit.com/r/askscience/"}, "latency": 0.40963101387023926, "title": ["AskScience: Got Questions? Get Answers."]},
+{"urlDict": {"searching": "https://www.reddit.com/r/tifu/"}, "latency": 0.38533616065979004, "title": ["Today I Fucked Up"]},
+{"urlDict": {"searching": "https://www.reddit.com/r/food/"}, "latency": 0.3919689655303955, "title": ["food"]},
+{"urlDict": {"searching": "https://www.reddit.com/r/sports/"}, "latency": 0.5947878360748291, "title": ["the sportspage of the Internet"]},
+{"urlDict": {"searching": "https://www.reddit.com/r/TwoXChromosomes/"}, "latency": 0.40440797805786133, "title": ["You are the community. You have all the power of the internet to mold it.."]},
+{"urlDict": {"searching": "https://www.reddit.com/r/personalfinance/"}, "latency": 1.1716680526733398, "title": ["personal finance"]},
+{"urlDict": {"searching": "https://www.reddit.com/r/explainlikeimfive/"}, "latency": 0.47546815872192383, "title": ["Explain Like I'm Five | Don't Panic!"]},
+{"urlDict": {"searching": "https://www.reddit.com/r/i18n/wiki/getting_started"}, "latency": 0.26833295822143555, "title": ["getting_started - i18n"]},
+{"urlDict": {"searching": "https://www.reddit.com/help/contentpolicy/"}, "latency": 0.43084001541137695, "title": ["reddit.com: content policy"]}
+]

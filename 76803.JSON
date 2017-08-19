@@ -1,0 +1,8 @@
+[
+{"urlDict": {"searching": "https://www.reddit.com/"}, "latency": 0.343919038772583, "title": ["reddit: the front page of the internet"]},
+{"urlDict": {"foundTarget": "https://www.reddit.com/r/DIY/"}, "targetNode": ["sepponearth"], "title": ["DIY"], "latency": 0.3643009662628174},
+{"urlDict": {"searching": "https://www.reddit.com/r/creepy/"}, "latency": 0.4580729007720947, "title": ["For all things creepy"]},
+{"urlDict": {"searching": "https://www.reddit.com/r/books/"}, "latency": 0.398928165435791, "title": ["So many books, so little time"]},
+{"urlDict": {"searching": "https://www.reddit.com/r/nosleep/"}, "latency": 0.41616296768188477, "title": ["nosleep"]},
+{"urlDict": {"searching": "https://www.reddit.com/r/Futurology/"}, "latency": 0.4298899173736572, "title": ["Future(s) Studies"]},
+{"urlDict": {"searching": "https://www.reddit.com/r/dataisbeautiful/"}, "latency": 0.4120039939880371, "title": ["Data Is Beautiful"]}
