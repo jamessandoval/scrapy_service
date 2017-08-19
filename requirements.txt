@@ -1,3 +1,5 @@
-Flask
-gunicorn
-scrapy
+Flask==0.12.2
+Flask-Cors==3.0.3
+gunicorn==19.7.1
+Scrapy==1.4.0
+
